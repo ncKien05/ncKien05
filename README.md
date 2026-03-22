@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ncKien05/ncKien05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Toki**, a passionate **Information Security** student and developer. I enjoy exploring the intersection of web development and cybersecurity.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌐 I build web applications using **HTML, CSS, JavaScript, ...**.
+- 🎓 I'm currently studying at **PTIT**, focusing on improving my **cybersecurity** and **penetration testing** skills.
+- 🕵️ I enjoy solving **CTF challenges**, specifically in **Web Security  Forensic**.
+- 🤖 I'm also exploring **Artificial Intelligence** and writing **Python scripts** to automate vulnerability research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+- **Languages:** C++, JavaScript, PHP, Java, Python
+- **Frameworks & Libraries:** Astro, Jekyll, jQuery
+- **Security Tools:** Nmap, Burp Suite, SQLmap, Metasploit, Docker
+- **Editor & Environment:** VSCode, Sublime Text, Kali Linux
+
+## 📫 Connect with Me
+- GitHub: [ncKien](https://github.com/ncKien05)
+- Facebook: [Kien Nguyen*, a passionate **Information Security** student and developer. I enjoy exploring the intersection of web development and cybersecurity.
+
+## 🚀 About Me
+- 🌐 I build web applications using **HTML, CSS, JavaScript, ...**.
+- 🎓 I'm currently studying at **PTIT**, focusing on improving my **cybersecurity** and **penetration testing** skills.
+- 🕵️ I enjoy solving **CTF challenges**, specifically in **Web Security  Forensic**.
+- 🤖 I'm also exploring **Artificial Intelligence** and writing **Python scripts** to automate vulnerability research.
+
+## 🛠 Technologies & Tools
+- **Languages:** C++, JavaScript, PHP, Java, Python
+- **Frameworks & Libraries:** Astro, Jekyll, jQuery
+- **Security Tools:** Nmap, Burp Suite, SQLmap, Metasploit, Docker
+- **Editor & Environment:** VSCode, Sublime Text, Kali Linux
+
+## 📫 Connect with Me
+- GitHub: [ncKien](https://github.com/ncKien05)
+- Facebook: [Kien Nguyen](https://www.facebook.com/kienzis.nguyen)
+- Email: Nguyenkien26122005@gmail.com
